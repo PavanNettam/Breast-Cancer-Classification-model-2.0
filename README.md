@@ -38,4 +38,13 @@ The dataset is divided into two parts, Trainings set(80% of the dataset) Testing
 Logistic regression model is applied on the training dataset and when tested on the testing dataset the following results were obtained:
 
 Confusion matrix:<br>
+<img width="585" alt="confusion_matrix" src="https://user-images.githubusercontent.com/79460453/152561898-f44bf5aa-9c39-417d-8317-6d9b8b43f820.png">
+
+Accuracy Score = 0.956140350877193
+K-Fold cross validation shows the following accuracy for the model:
+
+Accuracy = 98.18% Standard Deviation = 3.64%
+
+Dataset is taken from the following webpage:
+https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
