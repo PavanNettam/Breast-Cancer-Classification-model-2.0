@@ -40,7 +40,7 @@ Logistic regression model is applied on the training dataset and when tested on 
 Confusion matrix:<br>
 <img width="585" alt="confusion_matrix" src="https://user-images.githubusercontent.com/79460453/152561898-f44bf5aa-9c39-417d-8317-6d9b8b43f820.png">
 
-Accuracy Score = 0.956140350877193
+Accuracy Score = 0.956140350877193<br>
 K-Fold cross validation shows the following accuracy for the model:
 
 Accuracy = 98.18% Standard Deviation = 3.64%
