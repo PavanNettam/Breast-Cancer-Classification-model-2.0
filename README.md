@@ -1,6 +1,6 @@
 # Breast-Cancer-Classification-model-2.0
 Same model as in https://github.com/PavanNettam/Breast-Cancer-Classification-Model is applied on a different dataset<br>
-Data Set Information:
+<h2>Data Set Information:</h2>
 
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. A few of the images can be found at [Web Link] 
 
@@ -12,7 +12,7 @@ This database is also available through the UW CS ftp server:
 ftp ftp.cs.wisc.edu 
 cd math-prog/cpo-dataset/machine-learn/WDBC/
 <br>
-Attribute Information:
+<h2>Attribute Information:</h2>
 
 1) ID number 
 2) Diagnosis (M = malignant, B = benign) 
@@ -31,13 +31,13 @@ h) concave points (number of concave portions of the contour)
 i) symmetry 
 j) fractal dimension ("coastline approximation" - 1)
 <br>
-Classfication results:
+<h2>Classfication results:</h2>
 
 The dataset is divided into two parts, Trainings set(80% of the dataset) Testing set(20% of the dataset)
 
 Logistic regression model is applied on the training dataset and when tested on the testing dataset the following results were obtained:
 
-Confusion matrix:<br>
+<h2>Confusion matrix:</h2>
 <img width="585" alt="confusion_matrix" src="https://user-images.githubusercontent.com/79460453/152561898-f44bf5aa-9c39-417d-8317-6d9b8b43f820.png">
 
 Accuracy Score = 0.956140350877193<br>
